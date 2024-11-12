@@ -7,12 +7,12 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a MCA, CSE Student.
-- 🔭: I’m currently working on Automation WEB,Mobile,API projects.
-- 🌱: I’m currently learning Full Stack Frameworks. 🧠💻🤖
+- 🔭: I’m currently working on Automation **WEB,Mobile,API** projects.
+- 🌱: I’m completed learning **Full Stack Development**. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Structures, Java, Web Development. 📊📈🧠
 - 😄  Pronouns: He
-- ⚡  Fun fact: I play Cricket, Football and Running!🏏⚽🏃‍♂️
+- ⚡  Fun fact: I play **Cricket**, **Football** and **Running**!🏏⚽🏃‍♂️
   
 
 <h1>Hectober 2023</h1>
