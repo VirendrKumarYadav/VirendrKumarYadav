@@ -21,9 +21,21 @@
 ![image](https://github.com/VirendrKumarYadav/VirendrKumarYadav/assets/87600216/e73e4f6e-d579-44af-b61b-3a703f910000)
 
 <h1>Fellow This Link: </h1>https://www.holopin.io/@virendrkumaryadav#badges
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=VirendrKumarYadav&show_icons=true&locale=en&layout=compact" 
+       alt="VirendrKumarYadav" 
+       width="300" 
+       height="300" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VirendrKumarYadav&show_icons=true&locale=en&layout=compact" alt="VirendrKumarYadav" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=VirendrKumarYadav&show_icons=true&locale=en" 
+       alt="VirendrKumarYadav" 
+       width="300" 
+       height="300" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VirendrKumarYadav&show_icons=true&locale=en" alt="VirendrKumarYadav" /></p>
 
 
