@@ -3,17 +3,19 @@
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/akhil-sh06/">Virendra Kumar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+  
 <Br>
 <h1>About Me! 😎</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VirendrKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="VirendrKumarYadav" /> </p>
-- 🏫: I'm a MCA, CSE Student.
-- 🔭: I’m currently working on Automation **WEB,Mobile,API** projects.
-- 🌱: I’m completed learning **Full Stack Development**. 🧠💻🤖
+
+- 🏫: I'm an MCA, CSE Student.
+- 🔭: I’m currently working on Automation **WEB, Mobile, API** projects.
+- 🌱: I’ve completed learning **Full Stack Development**. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Structures, Java, Web Development. 📊📈🧠
-- 😄  Pronouns: He
-- ⚡  Fun fact: I play **Cricket**, **Football** and **Running**!🏏⚽🏃‍♂️
-  
+- 😄 Pronouns: He
+- ⚡ Fun fact: I play **Cricket**, **Football**, and **Running**! 🏏⚽🏃‍♂️
+
 
 <h1>Hectober 2023</h1>
 <hr>
