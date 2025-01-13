@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://github.com/user-attachments/assets/87662d30-52b5-4d97-8972-5a4703b37111" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://www.linkedin.com/in/akhil-sh06/">Virendra Kumar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://www.linkedin.com/in/akhil-sh06/">Virendra Yadav<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
   
 <Br>
 <h1>About Me! 😎</h1>
