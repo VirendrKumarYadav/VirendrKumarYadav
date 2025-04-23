@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/87662d30-52b5-4d97-8972-5a4703b37111" height="230"/>
+  <img src="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-technologist-light-skin-tone.png" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/akhil-sh06/">Virendra Yadav<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
